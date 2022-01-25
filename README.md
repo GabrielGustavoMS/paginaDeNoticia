@@ -1,6 +1,6 @@
 # Página de Notícia
 
-Exercício de programação Web, realizado durante os primeiros semestre do cursos de Ciências da Computação
+Exercício de programação Web, realizado em um dos primeiros semestres do curso de Ciências da Computação
 
 ![Preview](./preview.jpeg)
 
