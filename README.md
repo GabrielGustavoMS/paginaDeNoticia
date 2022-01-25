@@ -1,4 +1,8 @@
-# paginaDeNoticia
-Exercício de programação Web
+# Página de Notícia
 
-[Página de Notícia](https://gabrielgustavoms.github.io/paginaDeNoticia/)
+Exercício de programação Web, realizado durante os primeiros semestre do cursos de Ciências da Computação
+
+![Preview](./preview.jpg)
+
+
+Acesse a [Página de Notícia](https://gabrielgustavoms.github.io/paginaDeNoticia/)
